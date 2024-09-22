@@ -52,6 +52,8 @@
 
 #--Sayısal veriler için eksik değerler, ortalama ile doldurulmuştur (Kilo, Boy) gibi.
 
+#--Bazı durumlarda da en çok sıklıkla kullanılan veri ile doldurulmuştur.
+
 #--Kategorik değişkenler LabelEncoder ile kodlanmış, sıralı olmayan değişkenler get_dummies yöntemi ile sayısal verilere dönüştürülmüştür.
 
 ##Yaş Hesaplama
