@@ -9,16 +9,16 @@
 ##Veri Seti.
 --Veri seti, toplamda 2357 satır ve 19 sütundan oluşmaktadır. İçerdiği bilgiler arasında şunlar bulunmaktadır:
 
--Kullanıcı kimliği (Kullanici_id).
--Cinsiyet (Cinsiyet).
--Doğum tarihi (Dogum_Tarihi).
--Uyruk (Uyruk).
--İl (Il).
--İlaç adı (Ilac_Adi).
--İlaç başlangıç ve bitiş tarihleri (Ilac_Baslangic_Tarihi, Ilac_Bitis_Tarihi).
--Yan etki bilgisi (Yan_Etki).
--Yan etki bildirim tarihi (Yan_Etki_Bildirim_Tarihi).
--Alerjiler ve kronik hastalıklar.
+-Kullanıcı kimliği (Kullanici_id)
+-Cinsiyet (Cinsiyet)
+-Doğum tarihi (Dogum_Tarihi)
+-Uyruk (Uyruk)
+-İl (Il)
+-İlaç adı (Ilac_Adi)
+-İlaç başlangıç ve bitiş tarihleri (Ilac_Baslangic_Tarihi, Ilac_Bitis_Tarihi)
+-Yan etki bilgisi (Yan_Etki)
+-Yan etki bildirim tarihi (Yan_Etki_Bildirim_Tarihi)
+-Alerjiler ve kronik hastalıklar
 
 ##Eksik Veriler
 
