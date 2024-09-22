@@ -62,7 +62,7 @@
 
 ##Verilerin Ölçeklendirilmesi
 
-#--Kan grubu, kilo, boy ve yaş verileri arasında büyük farklılıkları gidermek için MinMaxScaler kullanılmış ve veriler normalize edilmiştir. Bu sayede modelleme ve analiz işlemleri için veriler uygun bir formata getirilmiştir.
+#--Kan grubu, kilo, boy ve yaş verileri arasında büyük farklılıkları gidermek için MinMaxScaler kullanılmış ve veriler normalize edilmiştir. Bu sayede modelleme ve analiz işlemleri için veriler uygun bir formata getirilmiştir. Aslında veriler 0-1 aralığına koyarak daha sonraki aşmalarda ML için anlaşılır hale getirildi.
 
 ##Sonuçlar
 
