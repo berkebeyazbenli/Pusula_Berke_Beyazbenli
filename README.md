@@ -1,24 +1,24 @@
 # Pusula_Berke_Beyazbenli
-Data Science Intern Case Study
+--Data Science Intern Case Study--
 
 
 ---Bu proje, ilaç kullanımına bağlı olarak bildirilen yan etkilerin analizine odaklanmaktadır. Veriler, kullanıcı bilgilerini, ilaç başlangıç ve bitiş tarihlerini, ilaç isimlerini, yan etkileri ve çeşitli özellikleri içermektedir. Analiz süreci, verilerin temizlenmesi, eksik verilerin doldurulması ve görselleştirilmesi üzerine yoğunlaşmıştır.
 
 --Veri setinin genel yapısını anlamak için histogramlar çizilmiştir. Histogramlar ilaç başlangıç ve bitiş tarihleri, kilo, boy gibi sayısal değişkenlerin dağılımını göstermektedir.
 
-##Veri Seti
+##Veri Seti.
 --Veri seti, toplamda 2357 satır ve 19 sütundan oluşmaktadır. İçerdiği bilgiler arasında şunlar bulunmaktadır:
 
--Kullanıcı kimliği (Kullanici_id)
--Cinsiyet (Cinsiyet)
--Doğum tarihi (Dogum_Tarihi)
--Uyruk (Uyruk)
--İl (Il)
--İlaç adı (Ilac_Adi)
--İlaç başlangıç ve bitiş tarihleri (Ilac_Baslangic_Tarihi, Ilac_Bitis_Tarihi)
--Yan etki bilgisi (Yan_Etki)
--Yan etki bildirim tarihi (Yan_Etki_Bildirim_Tarihi)
--Alerjiler ve kronik hastalıklar
+-Kullanıcı kimliği (Kullanici_id).
+-Cinsiyet (Cinsiyet).
+-Doğum tarihi (Dogum_Tarihi).
+-Uyruk (Uyruk).
+-İl (Il).
+-İlaç adı (Ilac_Adi).
+-İlaç başlangıç ve bitiş tarihleri (Ilac_Baslangic_Tarihi, Ilac_Bitis_Tarihi).
+-Yan etki bilgisi (Yan_Etki).
+-Yan etki bildirim tarihi (Yan_Etki_Bildirim_Tarihi).
+-Alerjiler ve kronik hastalıklar.
 
 ##Eksik Veriler
 
